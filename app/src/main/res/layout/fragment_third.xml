@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FFFF93	"
+    >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_toast1"
+        android:layout_weight="1"
+        android:text="日式"
+        android:textSize="25sp"
+        android:layout_marginBottom="7dp"
+        android:background="@android:color/holo_orange_dark"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_toast2"
+        android:layout_weight="1"
+        android:text="中式"
+        android:textSize="25sp"
+        android:layout_marginBottom="7dp"
+        android:background="@android:color/holo_orange_light"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_toast3"
+        android:layout_weight="1"
+        android:text="西式"
+        android:textSize="25sp"
+        android:layout_marginBottom="7dp"
+        android:background="@android:color/holo_orange_dark"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_toast4"
+        android:layout_weight="1"
+        android:text="早午餐"
+        android:textSize="25sp"
+        android:layout_marginBottom="7dp"
+        android:background="@android:color/holo_orange_light"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_toast5"
+        android:layout_weight="1"
+        android:text="火鍋"
+        android:textSize="25sp"
+        android:layout_marginBottom="7dp"
+        android:background="@android:color/holo_orange_dark"
+        app:backgroundTint="@null"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_toast6"
+        android:layout_weight="1"
+        android:text="飲料"
+        android:textSize="25sp"
+        android:layout_marginBottom="7dp"
+        android:background="@android:color/holo_orange_light"
+        app:backgroundTint="@null"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="右滑回首頁"
+        android:textSize="24sp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@android:color/holo_orange_dark"
+        android:layout_marginTop="18dp"/>
+
+</LinearLayout>

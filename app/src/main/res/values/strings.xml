@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">index</string>
+    <integer-array name="image_japan">
+        <item>@drawable/japan1</item>
+        <item>@drawable/japan2</item>
+        <item>@drawable/japan3</item>
+        <item>@drawable/japan4</item>
+        <item>@drawable/japan5</item>
+        <item>@drawable/japan6</item>
+    </integer-array>
+
+    <integer-array name="image_taiwan">
+        <item>@drawable/taiwan1</item>
+        <item>@drawable/taiwan2</item>
+        <item>@drawable/taiwan3</item>
+        <item>@drawable/taiwan4</item>
+        <item>@drawable/taiwan5</item>
+        <item>@drawable/taiwan6</item>
+    </integer-array>
+
+    <integer-array name="image_west">
+        <item>@drawable/west1</item>
+        <item>@drawable/west2</item>
+        <item>@drawable/west4</item>
+        <item>@drawable/west5</item>
+        <item>@drawable/west6</item>
+    </integer-array>
+
+    <integer-array name="image_hotpot">
+        <item>@drawable/hotpot1</item>
+        <item>@drawable/hotpot2</item>
+        <item>@drawable/hotpot3</item>
+        <item>@drawable/hotpot4</item>
+        <item>@drawable/hotpot5</item>
+        <item>@drawable/hotpot6</item>
+    </integer-array>
+
+    <integer-array name="image_branch">
+        <item>@drawable/branch1</item>
+        <item>@drawable/branch2</item>
+        <item>@drawable/branch3</item>
+        <item>@drawable/branch4</item>
+        <item>@drawable/branch5</item>
+        <item>@drawable/branch6</item>
+    </integer-array>
+
+    <integer-array name="image_drink">
+        <item>@drawable/drink1</item>
+        <item>@drawable/drink2</item>
+        <item>@drawable/drink3</item>
+        <item>@drawable/drink4</item>
+        <item>@drawable/drink5</item>
+        <item>@drawable/drink6</item>
+    </integer-array>
+</resources>
